@@ -1,0 +1,121 @@
+{
+  "status": "success",
+  "result": [
+    {
+      "id": 1001,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4.8,
+      "publicReview": "Lovely stay, spotless flat and great location near the canal.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 10
+        },
+        {
+          "category": "communication",
+          "rating": 9
+        },
+        {
+          "category": "location",
+          "rating": 10
+        },
+        {
+          "category": "value",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2024-08-21 22:45:14",
+      "guestName": "Alice T",
+      "listingName": "2B N1 A - 29 Shoreditch Heights",
+      "channel": "Airbnb"
+    },
+    {
+      "id": 1002,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 3.9,
+      "publicReview": "Good place but a bit noisy at night. Check-in was smooth.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 8
+        },
+        {
+          "category": "communication",
+          "rating": 10
+        },
+        {
+          "category": "location",
+          "rating": 7
+        },
+        {
+          "category": "value",
+          "rating": 8
+        }
+      ],
+      "submittedAt": "2024-11-12 10:12:11",
+      "guestName": "Marco P",
+      "listingName": "2B N1 A - 29 Shoreditch Heights",
+      "channel": "Booking.com"
+    },
+    {
+      "id": 1003,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 5.0,
+      "publicReview": "Exceptional. Quiet, bright, and the host was incredibly responsive.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 10
+        },
+        {
+          "category": "communication",
+          "rating": 10
+        },
+        {
+          "category": "location",
+          "rating": 9
+        },
+        {
+          "category": "value",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2025-05-05 08:02:44",
+      "guestName": "Sofia R",
+      "listingName": "Canary Wharf \u2013 Skyline Studio",
+      "channel": "Direct"
+    },
+    {
+      "id": 1004,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4.2,
+      "publicReview": "Nice decor but the bathroom extractor needs fixing.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 7
+        },
+        {
+          "category": "communication",
+          "rating": 9
+        },
+        {
+          "category": "maintenance",
+          "rating": 6
+        },
+        {
+          "category": "value",
+          "rating": 8
+        }
+      ],
+      "submittedAt": "2025-09-02 18:23:00",
+      "guestName": "James K",
+      "listingName": "Canary Wharf \u2013 Skyline Studio",
+      "channel": "Airbnb"
+    }
+  ]
+}
