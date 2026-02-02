@@ -103,7 +103,7 @@ export default function Dashboard() {
       {/* Top Nav (same vibe as index) */}
       <header className="border-b bg-white">
         <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-4">
-          <Link href="/" className="text-lg font-semibold tracking-tight">Flex Living</Link>
+          <Link href="/" className="text-lg font-semibold tracking-tight">Flex Living by Ayushi</Link>
           <nav className="flex items-center gap-3">
             <Link className="text-sm text-slate-600 hover:text-slate-900" href="/">
               Home
